@@ -1,0 +1,1 @@
+export const typeSpeed = (chars, time) => Math.round(chars / time * 60 / 5);
